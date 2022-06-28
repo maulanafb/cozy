@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744007481988",
+    "project_id": "maulana-5c69a",
+    "storage_bucket": "maulana-5c69a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744007481988:android:4f6f9a20674e6c6864a0d1",
+        "android_client_info": {
+          "package_name": "com.example.cozy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744007481988-ig2essvhtvbgj2mgb632u9uuctnn6lob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZWklUXOv_QgtUFPL_aPd5nz7hvErdYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744007481988-ig2essvhtvbgj2mgb632u9uuctnn6lob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
